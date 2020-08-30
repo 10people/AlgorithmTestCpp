@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/AlgorithmTestCpp.dir/main.cpp.o CMakeFiles/AlgorithmTestCpp.dir/Content/Algorithm.cpp.o CMakeFiles/AlgorithmTestCpp.dir/Content/Sort.cpp.o  -o AlgorithmTestCpp 

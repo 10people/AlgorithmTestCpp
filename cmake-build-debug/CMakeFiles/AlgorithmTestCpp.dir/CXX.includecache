@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/taylor.liang/Work/AlgorithmTestCpp/Algorithm.cpp
+Algorithm.h
+/Users/taylor.liang/Work/AlgorithmTestCpp/Algorithm.h
+
+/Users/taylor.liang/Work/AlgorithmTestCpp/Algorithm.h
+
+/Users/taylor.liang/Work/AlgorithmTestCpp/main.cpp
+iostream
+-
+Algorithm.h
+/Users/taylor.liang/Work/AlgorithmTestCpp/Algorithm.h
+
